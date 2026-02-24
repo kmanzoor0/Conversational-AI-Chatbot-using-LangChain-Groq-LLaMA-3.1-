@@ -101,3 +101,36 @@ AI Message: Nice to meet you, Kashif!
 
 Ask your question: What is my name?
 AI Message: Your name is Kashif.
+
+🎯 Learning Objectives
+
+This project demonstrates:
+
+Working with LLM APIs
+
+Prompt engineering
+
+Manual conversation memory management
+
+LCEL chaining in LangChain
+
+Environment variable handling
+
+CLI-based AI applications
+
+🔮 Future Improvements
+
+Convert into web app (Flask / FastAPI)
+
+Add persistent database memory
+
+Add streaming responses
+
+Add multi-user support
+
+Deploy on cloud
+
+👨‍💻 Author
+
+Kashif Manzoor
+Python Developer | AI Enthusiast
